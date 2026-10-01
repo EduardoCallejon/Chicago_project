@@ -204,3 +204,9 @@ Chicago_portal
 └── Guia_Arquitetura_Cloud_Run_Chicago.docx
 ```
 # Chicago_project
+
+## Dashboard
+
+Prévia do dashboard desenvolvido no Power BI a partir da camada Gold:
+
+<img width="1322" height="740" alt="Dashboard Chicago Payments Portal" src="https://github.com/user-attachments/assets/f37aa215-6084-44af-8dfc-6b054a24d036" />
