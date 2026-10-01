@@ -189,6 +189,14 @@ Os próximos passos que pretendo desenvolver são:
 4. adicionar alertas de falha e monitoramento de custos;
 5. evoluir o dashboard para uma interface conversacional que responda perguntas sobre os dados.
 
+## Documentação técnica
+
+- [Arquitetura da solução](docs/arquitetura.md)
+- [Dicionário de dados](docs/dicionario_de_dados.md)
+- [Qualidade de dados](docs/qualidade_de_dados.md)
+- [Execução e operação](docs/operacao.md)
+- [Dashboard e métricas](docs/dashboard.md)
+
 ## Estrutura do repositório
 
 ```text
