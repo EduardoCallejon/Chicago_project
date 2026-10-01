@@ -3,4 +3,4 @@ __pycache__/
 *.py[cod]
 data/
 .env
-Guia_Arquitetura_Cloud_Run_Chicago.docx
+Guia_Arquitetura_Cloud_Run_Chicago.docx*.pbix
